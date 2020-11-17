@@ -2,7 +2,7 @@
 ---
 
 ### Summary
-This repo store the code for an unfinished calculator project. THe project is made in python. You objective is to complete the layed out tasks, ordered by level of difficulty and maybe add something of your own. 
+This repo store the code for an unfinished calculator project. The project is made in python. You objective is to complete the layed out tasks, ordered by level of difficulty and maybe add something of your own. 
 
 ### Tasks
 - Complete the existing add and subtract functions
